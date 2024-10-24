@@ -1,7 +1,10 @@
 # lollipop_plotR
 An easy way to represent mutations in a gene body using lollipop plots.
 
-![alt title](https://github.com/jsha129/lollipop_plotR/blob/main/my_fantastic_lolliplot.png)
+Example: 
+
+
+(https://github.com/jsha129/lollipop_plotR/blob/main/my_fantastic_lolliplot.png)
 
 Sites of mutations in a gene body are commonly represented as lollipop plots, which are essentially line plots with dots. The x-axis is often the gene structure including promoter(s), exons and introns whereas the height is usually the frequency of mutation in a cohort. This R script aims to aid scientists in automating graph generation which can be then modified in software such Adobe Illustrator for publication. An Excel file is provided to retrieve gene features (sheet: 'features') and information on each mutation (sheet: 'vaf').
 
